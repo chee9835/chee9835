@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chee9835&layout=compact&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chee9835&layout=compact&theme=flag-india)]
 </div>
 
 <!--
